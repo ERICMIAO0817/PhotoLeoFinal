@@ -1,0 +1,3064 @@
+{
+  "eff4e541975624eafda22591af0928ac": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753538851.8726661
+  },
+  "22101dbf72aa16fc0260ff37fc5cbb21": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753538874.902892
+  },
+  "36826618109552cefcfafc18a9f10dde": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753538879.2341871
+  },
+  "a1c0738b891f4cb13e320f4863ebccb1": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753538892.469738
+  },
+  "6b3ef2e593209034b82d2c75a6369f97": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稳定手机，避免模糊",
+        "direction": "down",
+        "intensity": 1,
+        "reason": "提高清晰度"
+      },
+      {
+        "step": 3,
+        "action": "靠近主体，减少杂乱背景",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "突出主体"
+      },
+      {
+        "step": 4,
+        "action": "稍微向左倾斜，创造对角线构图",
+        "direction": "left",
+        "intensity": 1,
+        "reason": "增加画面动感"
+      }
+    ],
+    "timestamp": 1753538924.921929
+  },
+  "260b9588b566d85adc9737413521be71": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稳定手机，减少手抖模糊",
+        "direction": "down",
+        "intensity": 1,
+        "reason": "提高画面清晰度"
+      },
+      {
+        "step": 3,
+        "action": "向上稍微倾斜手机，尝试对角线构图",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "增强画面动感"
+      },
+      {
+        "step": 4,
+        "action": "稍微靠近键盘，捕捉细节",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "突出主体细节"
+      }
+    ],
+    "timestamp": 1753538959.3660429
+  },
+  "cefbed464479465e7aef0faa8b5837d1": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稳定手机，减少模糊",
+        "direction": "down",
+        "intensity": 1,
+        "reason": "提高画面清晰度"
+      },
+      {
+        "step": 3,
+        "action": "将玩具熊靠近窗边，增加自然光",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "增强光照"
+      },
+      {
+        "step": 4,
+        "action": "稍微抬高手机，突出玩具熊的高度",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "增加画面立体感"
+      }
+    ],
+    "timestamp": 1753539001.719795
+  },
+  "7cc8398395a89bbf2d092dbd9aa7a1d0": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539004.986434
+  },
+  "2c214ad75032e269bfed1d68bf09fee2": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539031.011091
+  },
+  "18d671b3400a4c31c6ea6b1db3c238dd": {
+    "result": [
+      {
+        "step": 1,
+        "action": "让模特跳起来，抓拍动感瞬间",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增加画面活力"
+      },
+      {
+        "step": 2,
+        "action": "抬高手机，平衡天空和地面",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "构图更均衡"
+      },
+      {
+        "step": 3,
+        "action": "靠近拍摄，突出细节质感",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强画面细节"
+      }
+    ],
+    "timestamp": 1753539136.861173
+  },
+  "ab0899e97eeb3da92361bc72e3409e50": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稳定手机，减少画面模糊",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "提高图像清晰度"
+      },
+      {
+        "step": 3,
+        "action": "抬高手机，减少桌面杂物",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "突出主体玩偶"
+      },
+      {
+        "step": 4,
+        "action": "调整光线角度，避免反光",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "提升画面质感"
+      }
+    ],
+    "timestamp": 1753539199.611764
+  },
+  "1424f11371f966d83cec81a766334df0": {
+    "result": [
+      {
+        "step": 2,
+        "action": "靠近拍摄，突出玩偶细节",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体清晰度"
+      },
+      {
+        "step": 3,
+        "action": "抬高手机，避免背景杂乱",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "突出主体"
+      },
+      {
+        "step": 4,
+        "action": "往左移动，居中玩偶",
+        "direction": "left",
+        "intensity": 1,
+        "reason": "平衡构图"
+      }
+    ],
+    "timestamp": 1753539205.8304808
+  },
+  "c94b83d56276faee902bf3d4ac535fb6": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稳定手机，减少画面模糊",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "提高图像清晰度"
+      },
+      {
+        "step": 3,
+        "action": "靠近拍摄，突出画面主体",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体细节"
+      },
+      {
+        "step": 4,
+        "action": "往右移动，减少背景杂乱",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "突出主体"
+      }
+    ],
+    "timestamp": 1753539221.122404
+  },
+  "dec8f4733a3f9f779b6dfc3573accdc7": {
+    "result": [
+      {
+        "step": 2,
+        "action": "靠近拍摄，减少杂物干扰",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "突出玩偶主体"
+      },
+      {
+        "step": 3,
+        "action": "抬高手机，避免背景杂乱",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "简化画面"
+      },
+      {
+        "step": 4,
+        "action": "往右移动，居中主体",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "增强构图平衡"
+      }
+    ],
+    "timestamp": 1753539238.373962
+  },
+  "6b909104d8602508a95b938b64643cf0": {
+    "result": [
+      {
+        "step": 2,
+        "action": "靠近拍摄，减少杂物干扰",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "突出玩偶主体"
+      },
+      {
+        "step": 3,
+        "action": "抬高手机，避免杂乱背景",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "简化画面"
+      },
+      {
+        "step": 4,
+        "action": "往右移动，调整中心构图",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "增强对称性"
+      }
+    ],
+    "timestamp": 1753539244.6408331
+  },
+  "b7e9bdce9dae572af3cc702b5ab49988": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539281.9354072
+  },
+  "3aa3a461aed3b6605b3c27c2456eb1ec": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539299.9766772
+  },
+  "f458361e83fa662bcc7e17bb5239b8f3": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539308.9087691
+  },
+  "8ba4d7ba053740f0b1ce9dff802947c9": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539322.679595
+  },
+  "35c3f371048cf147dd94ee4424d50100": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539322.888334
+  },
+  "ac73b1ace1ea20443e059d3bdd2180bf": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稳定手机，减少画面模糊",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "提高图像清晰度"
+      },
+      {
+        "step": 3,
+        "action": "往左移动，避开杂物",
+        "direction": "left",
+        "intensity": 2,
+        "reason": "简化背景"
+      },
+      {
+        "step": 4,
+        "action": "抬高手机，集中主体",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "增强构图效果"
+      }
+    ],
+    "timestamp": 1753539342.6177971
+  },
+  "8e0a1bee48d39129454e18d578efef0e": {
+    "result": [
+      {
+        "step": 1,
+        "action": "增加光源，改善昏暗光线",
+        "direction": "up",
+        "intensity": 3,
+        "reason": "提升画面亮度"
+      },
+      {
+        "step": 2,
+        "action": "使用闪光灯，增强曝光效果",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "提高图像清晰度"
+      },
+      {
+        "step": 3,
+        "action": "调整手机角度，避免光线直射",
+        "direction": "left_up",
+        "intensity": 1,
+        "reason": "减少光线反射"
+      }
+    ],
+    "timestamp": 1753539359.219678
+  },
+  "df68a606410af818bbfef1ebc5e276de": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539361.0531998
+  },
+  "745a40393707a0bbf447b08aabd8ad51": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539377.635721
+  },
+  "f745c78c182410a0a38b09dc6216e7a1": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539386.233921
+  },
+  "f927dbbfe6745eee1e25e32ef2dbf056": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539414.1892438
+  },
+  "e1464e609a274b6219cc1ecb73a71a5f": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539417.1687932
+  },
+  "21bb8c949a93ec347a895277f082641e": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539417.8433821
+  },
+  "e981e67aa16327fba6ce7c325118fa23": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539440.239299
+  },
+  "a73293a6b6c327aa7a655c22a02cf866": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539452.754176
+  },
+  "22d2389dd8bca3a97d90ff178e095f50": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539466.171241
+  },
+  "6aa7cdd6716011f76d847e6b0b3b1fa9": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539473.236477
+  },
+  "0b1209971f0f0c8a8892eaaf08644ac2": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539476.95784
+  },
+  "0dd42422656c99d2c50966272316325d": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539512.413398
+  },
+  "4991b77d3487b511c78a9ee4fa5d6eac": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整焦距，使画面更加清晰",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "当前画面模糊"
+      },
+      {
+        "step": 2,
+        "action": "增加光线，提升主体明亮度",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "提高可见度"
+      },
+      {
+        "step": 3,
+        "action": "靠近拍摄，突出细节质感",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "突出主体细节"
+      }
+    ],
+    "timestamp": 1753539515.507382
+  },
+  "8190f6452169366540b151d11111a4aa": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539515.958841
+  },
+  "04a6e2390d83a37a757448afa3c07ab0": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539530.9401448
+  },
+  "89feb21571a5b585db818bf9c43ac2f7": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539531.003077
+  },
+  "7de4c104d72a6f1a04bb89cc7d5a2e54": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539565.485405
+  },
+  "70081aadadca5e80e205f88ad40ff99a": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539569.673697
+  },
+  "ad42739ce2693f34fc5b13e6e97d9588": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539582.340759
+  },
+  "39cd86609d2f809d18a3e382891a7c20": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539584.2963169
+  },
+  "223d7321ec137a90f149da88ad796f7f": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539584.9267142
+  },
+  "095eacca8c1876e9b4e378352c59e6bb": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稳定手机，减少画面模糊",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "提高图像清晰度"
+      },
+      {
+        "step": 3,
+        "action": "靠近主体，突出玩偶细节",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强视觉效果"
+      },
+      {
+        "step": 4,
+        "action": "调整构图，让玩偶居中",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "改善画面平衡"
+      }
+    ],
+    "timestamp": 1753539811.636731
+  },
+  "06690b51ce85054a949a5109fd1f37f9": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539853.75344
+  },
+  "dd33bc1b571959ed9457588fd8267066": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753539858.40737
+  },
+  "48a73444db8f775af72a9cb5a25eafe9": {
+    "result": [
+      {
+        "step": 2,
+        "action": "往右移动，避开干扰背景",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "突出玩偶主体"
+      },
+      {
+        "step": 3,
+        "action": "抬高手机，俯视拍摄",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "增强立体感"
+      },
+      {
+        "step": 4,
+        "action": "靠近拍摄，突出玩偶细节",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "提高画面质感"
+      }
+    ],
+    "timestamp": 1753539870.912884
+  },
+  "9938c5f63624b8f2ea3278b18b8ce22b": {
+    "result": [
+      {
+        "step": 1,
+        "action": "靠近拍摄，突出玩偶质感",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强细节表现"
+      },
+      {
+        "step": 2,
+        "action": "抬高手机，减少背景杂物",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "简化画面"
+      },
+      {
+        "step": 3,
+        "action": "往右移动，让玩偶更居中",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "改善构图平衡"
+      }
+    ],
+    "timestamp": 1753539876.273323
+  },
+  "52db4fd83e783ea5370bef3762fae112": {
+    "result": [
+      {
+        "step": 1,
+        "action": "稍微抬高手机，增强主体立体感",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "改善玩偶的视觉效果"
+      },
+      {
+        "step": 2,
+        "action": "往右移动一点，避免桌面杂物干扰",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "让画面更整洁"
+      },
+      {
+        "step": 3,
+        "action": "向左移动几步，突出玩偶主体",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "增强主体在画面中的存在感"
+      }
+    ],
+    "timestamp": 1753539919.76959
+  },
+  "f9745d539a958eef6e0e888eeda2fad3": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稍微往左移，减少桌面杂物影响",
+        "direction": "left",
+        "intensity": 1,
+        "reason": "让主体更集中"
+      },
+      {
+        "step": 3,
+        "action": "抬高手机，增强玩偶的立体感",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "改善视觉效果"
+      },
+      {
+        "step": 4,
+        "action": "从低角度拍摄，增加趣味性",
+        "direction": "down",
+        "intensity": 1,
+        "reason": "创造独特视角"
+      }
+    ],
+    "timestamp": 1753539944.377293
+  },
+  "dc5333d84b47c3c933d2a82d19dd11ee": {
+    "result": [
+      {
+        "step": 1,
+        "action": "提高曝光度，增加画面亮度",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "改善昏暗环境下的可见性"
+      },
+      {
+        "step": 2,
+        "action": "靠近光源，提升拍摄细节",
+        "direction": "up",
+        "intensity": 3,
+        "reason": "在昏暗环境中增强细节"
+      },
+      {
+        "step": 3,
+        "action": "使用补光灯，增加画面层次感",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "在光线不足时提升效果"
+      }
+    ],
+    "timestamp": 1753539949.916249
+  },
+  "2a0c6e76603c050eca92d09ca309a8d1": {
+    "result": [
+      {
+        "step": 1,
+        "action": "增加前景元素，利用框架构图",
+        "direction": "left",
+        "intensity": 2,
+        "reason": "突出主体"
+      },
+      {
+        "step": 2,
+        "action": "保持留白，增强视觉冲击力",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "提供想象空间"
+      },
+      {
+        "step": 3,
+        "action": "靠近窗户，改善光照条件",
+        "direction": "right",
+        "intensity": 3,
+        "reason": "增强细节表现"
+      }
+    ],
+    "timestamp": 1753539958.473721
+  },
+  "2e590c2022bb53fd60e62dca8e9b5fd0": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稍微举高手机，突出玩偶细节",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "改善玩偶的视觉效果"
+      },
+      {
+        "step": 3,
+        "action": "往左移动，避免背景杂物干扰",
+        "direction": "left",
+        "intensity": 2,
+        "reason": "让画面更整洁"
+      },
+      {
+        "step": 4,
+        "action": "靠近拍摄，增强细节质感",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "突出玩偶质感"
+      }
+    ],
+    "timestamp": 1753539964.6754382
+  },
+  "e4becb2a27e10dbcadcc8c61fae7c70f": {
+    "result": [
+      {
+        "step": 2,
+        "action": "向左移动一点，让玩偶更居中",
+        "direction": "left",
+        "intensity": 1,
+        "reason": "提升画面平衡感"
+      },
+      {
+        "step": 3,
+        "action": "抬高手机，增加玩偶的立体感",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "改善视觉效果"
+      },
+      {
+        "step": 4,
+        "action": "靠近拍摄，突出玩偶细节",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "增强质感表现"
+      }
+    ],
+    "timestamp": 1753539986.6550772
+  },
+  "dadd03bf0109580027a318d42dc1b0e9": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540006.061381
+  },
+  "158a6a861dd57f7161ff34d984d405e9": {
+    "result": [
+      {
+        "step": 2,
+        "action": "往右移动，减少桌面杂物干扰",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "突出玩偶主体"
+      },
+      {
+        "step": 3,
+        "action": "抬高手机，增加玩偶的立体感",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "改善视觉效果"
+      },
+      {
+        "step": 4,
+        "action": "靠近拍摄，强调玩偶细节",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "增强质感表现"
+      }
+    ],
+    "timestamp": 1753540025.943954
+  },
+  "3919d1c1d339621221bb6d499f8c5889": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稍微抬高手机，增加玩偶的立体感",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "改善视觉效果"
+      },
+      {
+        "step": 3,
+        "action": "向右移动，减少背景杂物影响",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "让画面更整洁"
+      },
+      {
+        "step": 4,
+        "action": "靠近拍摄，增强细节表现",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "突出玩偶质感"
+      }
+    ],
+    "timestamp": 1753540030.562471
+  },
+  "f05e39eb7555e36288c37129dbfd7eaf": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540036.711859
+  },
+  "174cb8650ed28aea907fa3a8ca83188d": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540042.54905
+  },
+  "f3673c405aeb028557e5075a0eef6db5": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540069.952856
+  },
+  "99ac7795329b38ffb4be2a112bfaf0d9": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540079.5375779
+  },
+  "d50b5283323b15a51966bc373e1ea200": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540080.6542652
+  },
+  "a4b66d263ba153d059a4c8436b7da309": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540085.819446
+  },
+  "a513e2092061362cbbfe3a75e0b49ee3": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540106.871617
+  },
+  "83c3fc397513bb5afc5ea13a44b4afa6": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540122.28598
+  },
+  "b8fad700dec1b6baf9d63f1876d6faf9": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稳定手机，避免画面模糊",
+        "direction": "up",
+        "intensity": 3,
+        "reason": "提升照片清晰度"
+      },
+      {
+        "step": 3,
+        "action": "调整取景，突出主体细节",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "改善构图效果"
+      },
+      {
+        "step": 4,
+        "action": "选择适合的测光点，调整曝光",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "优化光线分布"
+      }
+    ],
+    "timestamp": 1753540133.2047942
+  },
+  "7704c806e12aa54cc90f96f30da20707": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540136.5552158
+  },
+  "45d79fa52cba449cb636e858a05b09d5": {
+    "result": [
+      {
+        "step": 2,
+        "action": "将相机向左移动",
+        "direction": "left",
+        "intensity": 2,
+        "reason": "减少右侧的干扰物，集中突出玩偶"
+      },
+      {
+        "step": 3,
+        "action": "稍微向下移动相机",
+        "direction": "down",
+        "intensity": 1,
+        "reason": "降低视角，使玩偶更居中，提高主体的视觉吸引力"
+      },
+      {
+        "step": 4,
+        "action": "放大画面",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "放大主体，排除背景的杂物，提高主体的清晰度"
+      }
+    ],
+    "timestamp": 1753540162.67341
+  },
+  "b1a2482f42d1c1a644063c2233fcc2d4": {
+    "result": [
+      {
+        "step": 2,
+        "action": "将相机向左移动",
+        "direction": "left",
+        "intensity": 2,
+        "reason": "减少右侧的手和干扰物，突出玩偶"
+      },
+      {
+        "step": 3,
+        "action": "稍微向下移动相机",
+        "direction": "down",
+        "intensity": 1,
+        "reason": "降低视角，使玩偶更居中，提高主体的视觉吸引力"
+      },
+      {
+        "step": 4,
+        "action": "缩小画面",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "减少背景杂物，集中在玩偶上"
+      }
+    ],
+    "timestamp": 1753540179.58373
+  },
+  "a5183d1f1d62878a6fa85bbfbc2826b4": {
+    "result": [
+      {
+        "step": 2,
+        "action": "将相机向左移动",
+        "direction": "left",
+        "intensity": 2,
+        "reason": "减少右侧背景干扰物，集中突出玩偶"
+      },
+      {
+        "step": 3,
+        "action": "稍微向下移动相机",
+        "direction": "down",
+        "intensity": 1,
+        "reason": "降低视角，使玩偶更居中，提高主体的视觉吸引力"
+      },
+      {
+        "step": 4,
+        "action": "放大画面",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "放大主体，排除背景的杂物，提高主体的清晰度"
+      }
+    ],
+    "timestamp": 1753540183.558369
+  },
+  "8385d0bc8ac32e6015ab54ddf36efb1e": {
+    "result": [
+      {
+        "step": 2,
+        "action": "将相机向左移动",
+        "direction": "left",
+        "intensity": 2,
+        "reason": "减少右侧背景干扰物，集中突出玩偶"
+      },
+      {
+        "step": 3,
+        "action": "稍微向下移动相机",
+        "direction": "down",
+        "intensity": 1,
+        "reason": "降低视角，使玩偶更居中，提高主体的视觉吸引力"
+      },
+      {
+        "step": 4,
+        "action": "使用较快的快门速度",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "减少模糊，提高图像清晰度"
+      }
+    ],
+    "timestamp": 1753540204.708009
+  },
+  "2cd68010f7303598085e77a071ed7b68": {
+    "result": [
+      {
+        "step": 1,
+        "action": "将相机向右移动",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "减少左侧背景杂物，集中突出玩偶"
+      },
+      {
+        "step": 2,
+        "action": "稍微缩小画面",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "减少背景干扰物，提高主体清晰度"
+      },
+      {
+        "step": 3,
+        "action": "向上移动相机",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "调整视角，提高主体的视觉吸引力"
+      }
+    ],
+    "timestamp": 1753540215.336308
+  },
+  "19e14ae6a9ec4f53077b6051662215d8": {
+    "result": [
+      {
+        "step": 1,
+        "action": "打开光源增加环境亮度",
+        "direction": "up",
+        "intensity": 3,
+        "reason": "改善光线条件以获得更清晰的画面"
+      },
+      {
+        "step": 2,
+        "action": "使用手机手电筒功能",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "补充光线以提高画面亮度"
+      },
+      {
+        "step": 3,
+        "action": "稳定手机或使用三脚架",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "在昏暗环境中减少抖动提高画质"
+      }
+    ],
+    "timestamp": 1753540247.117707
+  },
+  "81667f40e839cbcaf0e93f54eab03c00": {
+    "result": [
+      {
+        "step": 2,
+        "action": "往左移动一小步以避免桌子右侧的饮料瓶干扰主体",
+        "direction": "left",
+        "intensity": 2,
+        "reason": "改善构图，减少画面杂乱"
+      },
+      {
+        "step": 3,
+        "action": "蹲下来从低角度拍摄，使玩偶看起来更立体",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增强主体的视觉冲击力"
+      },
+      {
+        "step": 4,
+        "action": "使用手机的对焦功能对准玩偶以提高清晰度",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "确保主体清晰，减少模糊"
+      }
+    ],
+    "timestamp": 1753540293.050972
+  },
+  "abf70dd221cd5a491985428604ebd4a9": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稍微往右移动以减少左侧杂物的干扰",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "简化画面，突出主体"
+      },
+      {
+        "step": 3,
+        "action": "稍微向上移动以对准玩偶的脸部",
+        "direction": "up",
+        "intensity": 1,
+        "reason": "确保主体的脸部在画面中心"
+      },
+      {
+        "step": 4,
+        "action": "调整角度以避免背后的电脑屏幕干扰",
+        "direction": "left_up",
+        "intensity": 2,
+        "reason": "减少画面中的干扰元素"
+      }
+    ],
+    "timestamp": 1753540309.603574
+  },
+  "3874ef9785f90f300c9294f7047d0310": {
+    "result": [
+      {
+        "step": 2,
+        "action": "稍微向右移动手机以减少左侧的饮料杯影响",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "简化画面，突出主体"
+      },
+      {
+        "step": 3,
+        "action": "降低手机高度，从稍低的角度拍摄",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加玩偶的立体感"
+      },
+      {
+        "step": 4,
+        "action": "调整构图，让玩偶在画面中心并使用对称构图",
+        "direction": "left_up",
+        "intensity": 1,
+        "reason": "增强画面的平衡感"
+      }
+    ],
+    "timestamp": 1753540319.301878
+  },
+  "2bb0120ad53552fa0d8e163b1465e706": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540342.838302
+  },
+  "12a906dcfcb1d6feeed49deec33d7646": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540358.06009
+  },
+  "0781cfff75b9d65c51af8849e4daa168": {
+    "result": [
+      {
+        "step": 2,
+        "action": "将相机往左移动，避免左侧物品分散注意力",
+        "direction": "left",
+        "intensity": 2,
+        "reason": "减少杂物干扰，集中拍摄玩偶"
+      },
+      {
+        "step": 3,
+        "action": "稍微向下移动相机，以获得更好的视角",
+        "direction": "down",
+        "intensity": 1,
+        "reason": "使玩偶更居中，构图更平衡"
+      },
+      {
+        "step": 4,
+        "action": "将相机稍微向右倾斜，增加背景中展示的内容",
+        "direction": "right",
+        "intensity": 1,
+        "reason": "展示更多背景信息，增加画面丰富度"
+      }
+    ],
+    "timestamp": 1753540366.863225
+  },
+  "3269bc5b4774f173b60d2e1c06a51433": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540375.813478
+  },
+  "70d8a489866fee8218d19834e6c61e5b": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540387.9714189
+  },
+  "e382e2e496f19d9a2d898de850293d28": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540401.203222
+  },
+  "4a1899c2dbcfb226e2d92648bd031019": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540407.377137
+  },
+  "04d0e02c2831b57f801ce4ba2db16257": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540417.966841
+  },
+  "9410c54a8c07642749a6c3a84f94113f": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540421.437805
+  },
+  "5cf0dde1e54ce9089af2e726f06707af": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540424.56005
+  },
+  "a7816215948116a342ffb0486eeb78cb": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540445.435117
+  },
+  "51ac7b972dc243a0f3a788f6e05f0034": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540492.377414
+  },
+  "5d28c330477392c86c753f56be927090": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540497.049952
+  },
+  "b41d0ca76b0ab883d7606bca6520be14": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540502.269537
+  },
+  "01cfb1b59f883f6583803431bb1e3d39": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540506.257191
+  },
+  "a493ebe35185c1fef1ae0498c1133dd2": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540517.0477598
+  },
+  "3401dbebc7364f3abdaeda0625b66e98": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540527.122457
+  },
+  "29bead964ce8a0f089d8360401120832": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540536.81647
+  },
+  "4352f834fd7b59248fb52466eaad2ae5": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540572.2325969
+  },
+  "4b2a47837874a5ebbeaa24bd0be5bc12": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540579.0325902
+  },
+  "1fd7faaef6144a24d83a603c45b737c0": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540588.804548
+  },
+  "87b62a1af8b6a5c02570bc88c28f0887": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540591.812533
+  },
+  "56c8888fd1b1762aba95fbc4433b5226": {
+    "result": [
+      {
+        "step": 2,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 3,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 4,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 5,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540608.670048
+  },
+  "b2fe750b1f64859e1b8af101503ce6d4": {
+    "result": [
+      {
+        "step": 1,
+        "action": "调整拍摄角度，寻找最佳构图位置",
+        "direction": "left",
+        "intensity": 3,
+        "reason": "优化构图布局"
+      },
+      {
+        "step": 2,
+        "action": "调整拍摄高度，尝试不同视角",
+        "direction": "down",
+        "intensity": 2,
+        "reason": "增加画面层次感"
+      },
+      {
+        "step": 3,
+        "action": "调整焦距，突出主体元素",
+        "direction": "up",
+        "intensity": 2,
+        "reason": "增强主体表现力"
+      },
+      {
+        "step": 4,
+        "action": "微调位置，平衡画面元素",
+        "direction": "right",
+        "intensity": 2,
+        "reason": "完善整体构图"
+      }
+    ],
+    "timestamp": 1753540627.18697
+  }
+}
