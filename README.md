@@ -69,7 +69,7 @@ PhotoLeo 是一个多平台智能摄影助手项目，集成了AI图像分析、
 
 <div align="center">
   <img src="images/demo2.jpeg" alt="相机界面2" width="200" />
-  <p><em>PhotoLeo吉祥物 - 您的智能摄影助手</em></p>
+  <p><em>智能相机界面 - 实时构图辅助和AI分析</em></p>
 </div>
 
 ### 功能演示
@@ -85,11 +85,11 @@ PhotoLeo 是一个多平台智能摄影助手项目，集成了AI图像分析、
 ### 视频演示
 
 <div align="center">
-  <video width="600" controls muted autoplay loop>
-    <source src="images/clip.mp4" type="video/mp4">
-    您的浏览器不支持视频播放。
-  </video>
+  <a href="images/clip.mp4">
+    <img src="images/demo1.png" alt="点击观看演示视频" width="600" style="cursor: pointer;" />
+  </a>
   <p><em>📹 PhotoLeo 完整功能演示 - 实时摄影指导和AI分析</em></p>
+  <p><strong>💡 提示：</strong> 点击上方图片观看完整视频演示</p>
 </div>
 
 ## 主要功能
